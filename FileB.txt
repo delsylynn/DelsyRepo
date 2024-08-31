@@ -1,1 +1,2 @@
 B1
+This is new change in B
